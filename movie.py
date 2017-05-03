@@ -5,7 +5,7 @@ from sys import exit
 from numpy.random import randint
 THE_USER = 100#The user-id for whom you want to give a recommendation
 
-#To fet the entire spreadsheet as a 2-D list,
+#To get the entire spreadsheet as a 2-D list,
 with open('rating.csv', 'rb') as f:
     values = list(reader(f))
 
