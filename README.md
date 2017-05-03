@@ -9,3 +9,5 @@ The similarity of two users can be quantified by taking the ratio of the differe
 
 More information on the math behind this method can be found at:
 https://www.toptal.com/algorithms/predicting-likes-inside-a-simple-recommendation-engine
+
+This program asks the user if he likes 5 random movies and uses the information from the dataset to predict which movie the user would most probably like.
